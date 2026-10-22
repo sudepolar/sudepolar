@@ -4,7 +4,7 @@ Application Development & Delivery student at **Red River College Polytechnic** 
 
 - 🎓 Diploma, Application Development & Delivery (May 2025 – May 2027) · GPA 4.5
 - 🔭 Latest project: [Text Summary API](https://github.com/sudepolar/Text-Summary-API)
-- 🌱 Growing in: machine learning with Python
+- 🌱 Growing in: Full-stack Development
 - 💼 Looking for: a **Winter 2027 Jr. Developer co-op**
 - 📫 Reach me: emnacenharry@gmail.com
 
